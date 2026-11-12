@@ -3,3 +3,7 @@ phantomtrace.db
 __pycache__/
 venv/
 .env
+phantomtrace.db
+*.sqlite3
+__pycache__/
+venv/
